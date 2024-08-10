@@ -27,32 +27,26 @@ The dataset includes information on 98,230 customers with 73 unique features rel
 
 ## Tech Stack
 Language: SQL
-Tools: Python, AWS
-Libraries:
-Pandas: For data analysis and manipulation
-Pyodbc: For connecting with AWS cloud to fetch the data
-NumPy: For performing mathematical operations over data
-Matplotlib, Seaborn: For data visualization
-Scikit-learn: For missing value imputation
+Tools: PostgreSQL
 
 ## Approach
 In this project, we will perform exploratory data analysis using a series of SQL queries to uncover insights into customer behavior, sales trends, and music preferences. Each query is designed to address a specific business question, providing a comprehensive view of the digital music store's operations.
 
 ## SQL Queries
-Question Set 1 - Easy
-Senior Most Employee: Identify the senior-most employee based on job title.
-Countries with Most Invoices: Determine which countries have the highest number of invoices.
-Top 3 Invoice Values: Find the top 3 invoice totals.
-City with Best Customers: Identify the city with the highest sum of invoice totals for promotional efforts.
-Best Customer: Determine the customer who has spent the most money.
-Question Set 2 - Moderate
-Rock Music Listeners: List the email, first name, last name, and genre of all rock music listeners.
-Top Rock Bands: Identify the top 10 rock bands based on the number of tracks.
-Tracks Longer than Average: List all track names that are longer than the average song length.
-Question Set 3 - Advanced
-Spending by Customer on Artists: Determine how much each customer has spent on artists.
-Most Popular Genre by Country: Identify the most popular music genre for each country based on purchases.
-Top Customer by Country: Find the customer who has spent the most on music for each country.
+### Question Set 1 - Easy
+1. **Senior Most Employee**: Identify the senior-most employee based on job title.
+2. **Countries with Most Invoices**: Determine which countries have the highest number of invoices.
+3. **Top 3 Invoice Values**: Find the top 3 invoice totals.
+4. **City with Best Customers**: Identify the city with the highest sum of invoice totals for promotional efforts.
+5. **Best Customer**: Determine the customer who has spent the most money.
+### Question Set 2 - Moderate
+1. **Rock Music Listeners**: List the email, first name, last name, and genre of all rock music listeners.
+2. **Top Rock Bands**: Identify the top 10 rock bands based on the number of tracks.
+3. **Tracks Longer than Average**: List all track names that are longer than the average song length.
+### Question Set 3 - Advanced
+1. **Spending by Customer on Artists**: Determine how much each customer has spent on artists.
+2. **Most Popular Genre by Country**: Identify the most popular music genre for each country based on purchases.
+3. **Top Customer by Country**: Find the customer who has spent the most on music for each country.
 
 ## Note
 This project is part of the Fast Code initiative, where all related information is provided in the download code section. You can begin directly by exploring and executing the CodeBook (IPYNB file).
