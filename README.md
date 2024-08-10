@@ -16,8 +16,9 @@ Data analysis plays a crucial role in the digital music industry by enabling bus
 The project will tackle several key challenges faced by digital music stores, including:
 
 1. **Customer and Sales Analytics**: Understanding customer spending habits and identifying top customers.
-Genre and Artist Analysis: Analyzing popular genres and artists to tailor marketing efforts.
-Revenue Optimization: Identifying cities and countries with the highest sales to focus promotional efforts.
+2. **Genre and Artist Analysis**: Analyzing popular genres and artists to tailor marketing efforts.
+3. **Revenue Optimization**: Identifying cities and countries with the highest sales to focus promotional efforts.
+   
 ## Aim
 To explore the digital music store data and identify key trends and opportunities for growth.
 
