@@ -42,7 +42,7 @@ Language: SQL
 Tools: PostgreSQL
 
 ## Approach
-In this project, we will perform exploratory data analysis using a series of SQL queries to uncover insights into customer behavior, sales trends, and music preferences. Each query is designed to address a specific business question, providing a comprehensive view of the digital music store's operations.
+In this project, we will perform exploratory data analysis using a series of SQL queries to uncover insights into customer behavior, sales trends, and music preferences. Each query is designed to address a business question, providing a comprehensive view of the digital music store's operations.
 
 ## SQL Queries
 ### Question Set 1 - Easy
@@ -59,7 +59,4 @@ In this project, we will perform exploratory data analysis using a series of SQL
 1. **Spending by Customer on Artists**: Determine how much each customer has spent on artists.
 2. **Most Popular Genre by Country**: Identify the most popular music genre for each country based on purchases.
 3. **Top Customer by Country**: Find the customer who has spent the most on music for each country.
-
-## Note
-This project is part of the Fast Code initiative, where all related information is provided in the download code section. You can begin directly by exploring and executing the CodeBook (IPYNB file).
 
