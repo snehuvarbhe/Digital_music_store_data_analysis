@@ -1,3 +1,4 @@
+/*create tables*/
 CREATE TABLE employee(
 employee_id VARCHAR(50) PRIMARY KEY,
 last_name CHAR(50),
@@ -86,10 +87,7 @@ genre_id VARCHAR(50) PRIMARY KEY,
 name VARCHAR(30));
 
 
-
-
-
--- copy table data
+/*copy table data*/
 COPY cc_detail
 FROM 'D:\employee.csv' 
 DELIMITER ',' 
