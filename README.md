@@ -23,7 +23,19 @@ The project will tackle several key challenges faced by digital music stores, in
 To explore the digital music store data and identify key trends and opportunities for growth.
 
 ## Data Description
-The dataset includes information on 98,230 customers with 73 unique features related to customer demographics, personal information, and purchasing history.
+The dataset comprises 11 tables, each containing different aspects of the digital music store's operations:
+
+Employee,
+Customer,
+Invoice,
+InvoiceLine,
+Track,
+Album,
+Artist,
+PlaylistTrack,
+Playlist,
+MediaType,
+Genre,
 
 ## Tech Stack
 Language: SQL
