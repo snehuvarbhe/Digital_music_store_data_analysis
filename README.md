@@ -1,5 +1,5 @@
-Digital Music Store Data Analysis
-Business Overview
+## Digital Music Store Data Analysis
+# Business Overview
 The music industry has undergone a significant transformation with the rise of digital music platforms. These platforms generate vast amounts of data related to customer preferences, purchase behaviors, and music trends. Analyzing this data can provide valuable insights for music stores to enhance customer experience, optimize sales strategies, and identify emerging trends in the music industry.
 
 In this project, we will explore the data collected from a digital music store to identify patterns and solve various business problems. By leveraging SQL queries, we aim to turn raw data into meaningful insights that can drive business decisions and improve operational efficiency.
