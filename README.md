@@ -7,10 +7,10 @@ In this project, we will explore the data collected from a digital music store t
 ## Why Data Analysis in Music Stores?
 Data analysis plays a crucial role in the digital music industry by enabling businesses to:
 
-Understand customer preferences and behavior.
-Optimize pricing and promotional strategies.
-Identify top-performing artists and genres.
-Improve inventory management and sales forecasting.
+- Understand customer preferences and behavior.
+- Optimize pricing and promotional strategies.
+- Identify top-performing artists and genres.
+- Improve inventory management and sales forecasting.
 
 ## Problems Addressed
 The project will tackle several key challenges faced by digital music stores, including:
