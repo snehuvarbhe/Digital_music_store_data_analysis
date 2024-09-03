@@ -4,7 +4,7 @@ The music industry has undergone a significant transformation with the rise of d
 
 In this project, we will explore the data collected from a digital music store to identify patterns and solve various business problems. By leveraging SQL queries, we aim to turn raw data into meaningful insights that can drive business decisions and improve operational efficiency.
 
-## Why Data Analysis in Music Stores?
+## Why Data Analysis in Music Store?
 Data analysis plays a crucial role in the digital music industry by enabling businesses to:
 
 - Understand customer preferences and behavior.
